@@ -1,0 +1,1 @@
+<< teste12 >> Tempo gasto em segundos: 0.01
